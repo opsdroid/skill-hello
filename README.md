@@ -27,7 +27,3 @@ Says goodbye to the user.
 > user: bye
 >
 > opsdroid: Bye user
-
-## License
-
-GNU General Public License Version 3 (GPLv3)
